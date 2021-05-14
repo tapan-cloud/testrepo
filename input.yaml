@@ -1,0 +1,12 @@
+mulesoft-apisero-sandbox:
+  username: "![j8C1lIMr3BtV4l4JawY5IH6eH0gIQvHHcuodnUrAbX56GRDX+qca/weOOVKPG9lh]"
+  password: ""
+  merchant:
+    incomeAccountId: "55"
+    taxScheduleId: "1"
+    revRecScheduleId: "1"
+    revRecForecastRuleId: "1"
+    locationId: "1"
+    subsidiaryId: "1"
+
+
